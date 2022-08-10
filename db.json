@@ -1,0 +1,28 @@
+{
+  "books": [
+    {
+      "bookname": "React JS",
+      "image": "https://m.media-amazon.com/images/I/41IiBTZOGCL.jpg",
+      "author": "Lionel Lopez",
+      "price": "600",
+      "publisher": "American Pvt ltd",
+      "id": 1
+    },
+    {
+      "bookname": "Javascript The Good Parts",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/5131OWtQRaL._SX381_BO1,204,203,200_.jpg",
+      "author": "Douglass Crackfond",
+      "publisher": "American Pvt ltd",
+      "price": "500",
+      "id": 2
+    },
+    {
+      "bookname": "Higher Engineering Mathematics",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/A1B9jKcSuhL.jpg",
+      "author": "B.S Grewal",
+      "publisher": "New Delhi Pvt ltd",
+      "price": "600",
+      "id": 3
+    }
+  ]
+}
